@@ -31,7 +31,8 @@ function FindProxyForURL(url, host) {
     "carnegieendowment.org",
     "manning.com",
     "twirpx.link",
-    "twirpx.net"
+    "twirpx.net",
+    "informatica.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
