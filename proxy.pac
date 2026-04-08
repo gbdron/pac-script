@@ -33,7 +33,8 @@ function FindProxyForURL(url, host) {
     "twirpx.link",
     "twirpx.net",
     "informatica.com",
-    "rockthejvm.com"
+    "rockthejvm.com",
+    "teachablecdn.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
