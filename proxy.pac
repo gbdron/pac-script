@@ -32,7 +32,8 @@ function FindProxyForURL(url, host) {
     "manning.com",
     "twirpx.link",
     "twirpx.net",
-    "informatica.com"
+    "informatica.com",
+    "rockthejvm.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
