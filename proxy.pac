@@ -41,7 +41,12 @@ function FindProxyForURL(url, host) {
     "accounts.google.com",
     "doubleclick.net",
     "googleadservices.com",
-    "gstatic.com"
+    "gstatic.com",
+    "youtubei.googleapis.com",
+    "youtube.googleapis.com",
+    "i.ytimg.com",
+    "s.ytimg.com",
+    "ggpht.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
