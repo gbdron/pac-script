@@ -37,12 +37,16 @@ function FindProxyForURL(url, host) {
     "twirpx.net",
     "informatica.com",
     "rockthejvm.com",
-    "teachablecdn.com"
+    "teachablecdn.com",
+    "accounts.google.com",
     "doubleclick.net",
+    "googleadservices.com",
+    "gstatic.com",
     "youtubei.googleapis.com",
     "youtube.googleapis.com",
     "i.ytimg.com",
-    "s.ytimg.com"
+    "s.ytimg.com",
+    "ggpht.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
