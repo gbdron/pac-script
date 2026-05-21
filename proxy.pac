@@ -40,8 +40,6 @@ function FindProxyForURL(url, host) {
     "teachablecdn.com"
     "accounts.google.com",
     "doubleclick.net",
-    "googleadservices.com",
-    "gstatic.com",
     "youtubei.googleapis.com",
     "youtube.googleapis.com",
     "i.ytimg.com",
