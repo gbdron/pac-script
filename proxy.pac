@@ -38,13 +38,11 @@ function FindProxyForURL(url, host) {
     "informatica.com",
     "rockthejvm.com",
     "teachablecdn.com"
-    "accounts.google.com",
     "doubleclick.net",
     "youtubei.googleapis.com",
     "youtube.googleapis.com",
     "i.ytimg.com",
-    "s.ytimg.com",
-    "ggpht.com"
+    "s.ytimg.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
