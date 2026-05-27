@@ -3,8 +3,8 @@ function FindProxyForURL(url, host) {
     return h === domain || shExpMatch(h, "*." + domain);
   }
 
-  var SOCKS_MAIN = "SOCKS 127.0.0.1:9999";
-  var SOCKS_CP   = "SOCKS 127.0.0.1:9990";
+  var SOCKS_MAIN = "SOCKS5 127.0.0.1:9999";
+  var SOCKS_CP   = "SOCKS5 127.0.0.1:9990";
 
   var mainDomains = [
     "rutracker.me",
