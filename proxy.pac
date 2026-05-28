@@ -15,6 +15,7 @@ function FindProxyForURL(url, host) {
     "twitter.com",
     "chatgpt.com",
     "iherb.com",
+    "broadcom.com",
     "udemy.com",
     "udemycdn.com",
     "googlevideo.com",
