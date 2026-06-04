@@ -47,7 +47,8 @@ function FindProxyForURL(url, host) {
     "youtube.googleapis.com",
     "i.ytimg.com",
     "s.ytimg.com",
-    "ggpht.com"
+    "ggpht.com",
+    "gemini.google.com"
   ];
 
   for (var i = 0; i < mainDomains.length; i++) {
